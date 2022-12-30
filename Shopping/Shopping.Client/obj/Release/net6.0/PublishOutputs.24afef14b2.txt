@@ -1,0 +1,8 @@
+C:\Users\tnunnery\src\run-devops\Shopping\Shopping.Client\obj\Release\net6.0\PubTmp\Out\Shopping.Client.exe
+C:\Users\tnunnery\src\run-devops\Shopping\Shopping.Client\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\tnunnery\src\run-devops\Shopping\Shopping.Client\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\tnunnery\src\run-devops\Shopping\Shopping.Client\obj\Release\net6.0\PubTmp\Out\Shopping.Client.dll
+C:\Users\tnunnery\src\run-devops\Shopping\Shopping.Client\obj\Release\net6.0\PubTmp\Out\Shopping.Client.deps.json
+C:\Users\tnunnery\src\run-devops\Shopping\Shopping.Client\obj\Release\net6.0\PubTmp\Out\Shopping.Client.runtimeconfig.json
+C:\Users\tnunnery\src\run-devops\Shopping\Shopping.Client\obj\Release\net6.0\PubTmp\Out\Shopping.Client.pdb
+C:\Users\tnunnery\src\run-devops\Shopping\Shopping.Client\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
